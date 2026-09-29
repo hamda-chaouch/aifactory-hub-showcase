@@ -1,0 +1,23 @@
+title: AIFactory Hub
+description: Development Engineering AI Suite — Public Showcase
+theme: jekyll-theme-minimal
+
+# Basic settings
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# Exclude files from the build
+exclude:
+  - .gitignore
+  - CONTRIBUTORS.md
+  - LICENSE
+  - LICENSE-THIRD-PARTY.md
+
+# Set README.md as the homepage
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
