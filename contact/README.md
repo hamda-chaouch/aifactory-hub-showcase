@@ -4,7 +4,7 @@
 
 ## ?? Business Inquiries
 
-**Licensing ¡¤ Partnerships ¡¤ Enterprise deployment**
+**Licensing Â¡Â¤ Partnerships Â¡Â¤ Enterprise deployment**
 
     Email: contact@hamda.is-a.dev
     Subject: [AIFactory] Licensing Inquiry
@@ -19,7 +19,7 @@
     Subject: [AIFactory] Contributor Application
 
 **Please include:**
-- Your role (QML ¡¤ C++ ¡¤ AI ¡¤ Docs)
+- Your role (QML Â¡Â¤ C++ Â¡Â¤ AI Â¡Â¤ Docs)
 - Portfolio or GitHub profile
 - Weekly availability
 
