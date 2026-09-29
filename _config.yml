@@ -1,6 +1,10 @@
 title: AIFactory Hub
 description: Development Engineering AI Suite — Public Showcase
 theme: jekyll-theme-minimal
+baseurl: "/aifactory-hub-showcase"
+
+# Point to your social preview image
+image: /assets/images/social-preview.png
 
 # Basic settings
 markdown: kramdown

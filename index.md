@@ -3,6 +3,8 @@ layout: default
 title: AIFactory Hub
 ---
 
+{% seo %}
+
 ![Status](https://img.shields.io/badge/Status-Phase%201%20In%20Progress-blue)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 ![Qt](https://img.shields.io/badge/Qt-6.8.1-green)
