@@ -1,5 +1,11 @@
 # 🏭 AIFactory Hub
 
+![Status](https://img.shields.io/badge/Status-Phase%201%20In%20Progress-blue)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+![Qt](https://img.shields.io/badge/Qt-6.8.1-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+**🌐 Live Showcase:** [hamda-chaouch.github.io/aifactory-hub-showcase](https://hamda-chaouch.github.io/aifactory-hub-showcase/)
+
 **Development Engineering AI Suite** — A unified Qt 6 + QML desktop platform
 for AI-powered content creation, data analysis, engineering, and coding automation.
 

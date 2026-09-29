@@ -13,6 +13,8 @@ title: AIFactory Hub
 **Development Engineering AI Suite** — A unified Qt 6 + QML desktop platform
 for AI-powered content creation, data analysis, engineering, and coding automation.
 
+**🌐 Live Showcase:** [hamda-chaouch.github.io/aifactory-hub-showcase](https://hamda-chaouch.github.io/aifactory-hub-showcase/)
+
 > ⚠️ **Source code is proprietary.** This site contains documentation
 > and screenshots only. For licensing inquiries, see [Contact](contact/).
 
