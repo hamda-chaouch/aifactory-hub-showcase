@@ -6,7 +6,7 @@
 
 **Licensing ¡¤ Partnerships ¡¤ Enterprise deployment**
 
-    Email: contact@hamda.is-a.dev
+    Email: [contact@hamda.is-a.dev]
     Subject: [AIFactory] Licensing Inquiry
 
 ---
@@ -15,7 +15,7 @@
 
 **Join the revenue-share team**
 
-    Email: contact@hamda.is-a.dev
+    Email: [contact@hamda.is-a.dev]
     Subject: [AIFactory] Contributor Application
 
 **Please include:**
@@ -36,7 +36,7 @@
 
 **Report vulnerabilities privately.**
 
-    Email: contact@hamda.is-a.dev
+    Email: [contact@hamda.is-a.dev]
     Subject: [AIFactory] Security Report
 
 Please do **not** open public issues for security concerns.

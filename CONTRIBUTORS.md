@@ -23,7 +23,7 @@ AIFactory Hub operates under a **revenue-share contributor model**.
 
 ## How to Join
 
-1. Contact the Author at [your-email@example.com]
+1. Contact the Author at [contact@hamda.is-a.dev]
 2. Review and sign the Contributor Agreement
 3. Receive repository access (private repo)
 4. Receive your revenue-share percentage
@@ -39,4 +39,4 @@ AIFactory Hub operates under a **revenue-share contributor model**.
 ## Contact
 
     Hamda
-    contact@hamda.is-a.dev
+    **contact@hamda.is-a.dev**
