@@ -36,6 +36,23 @@ hybrid (local + cloud) desktop platform.
 
 ---
 
+## 📸 Screenshots
+
+*Screenshots will be added here as the UI is built.*
+
+| Home | Settings |
+| :---: | :---: |
+| ![AIFactory Hub Screenshots](docs/images/screenshots.png) |
+
+---
+
+## 🏗️ Architecture
+
+![AIFactory Hub Architecture](docs/images/architecture_v1.png)
+
+*(High-level overview. See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for details.)*
+
+---
 ## 🏗️ High-Level Architecture
 QML FRONTEND
 │
@@ -96,16 +113,6 @@ Full architecture: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 | **Phase 11** | Hamda Agent | ⏳ Pending |
 
 Full roadmap: [`docs/ROADMAP.md`](docs/ROADMAP.md).
-
----
-
-## 📸 Screenshots
-
-*Screenshots will be added here as the UI is built.*
-
-| Home | AI Media Studio |
-| :---: | :---: |
-| *(coming soon)* | *(coming soon)* |
 
 ---
 
