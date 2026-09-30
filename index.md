@@ -38,7 +38,7 @@ for AI-powered content creation, data analysis, engineering, and coding automati
 - [Architecture](docs/ARCHITECTURE)
 - [Roadmap](docs/ROADMAP)
 - [Features](docs/FEATURES)
-- [Contributors](contributors/CONTRIBUTORS)
+- [Contributors](contributors/CONTRIBUTORS.md)
 - [Contact](contact/)
 
 
