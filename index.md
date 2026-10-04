@@ -33,6 +33,136 @@ for AI-powered content creation, data analysis, engineering, and coding automati
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Home — 4 Module Cards
+
+![AIFactory Hub Home](screenshots/home.png)
+
+The hub presents 4 unified workspaces: AI Media Studio, Data & Knowledge Studio,
+Engineering Studio, and Hamda Agent.
+
+---
+
+### 🎨 AI Media Studio
+
+![AI Media Studio — Auto/Manual chooser](screenshots/aimedia_studio.png)
+
+Choose between the **Auto Content Factory** (batch pipeline) or the
+**Manual Content Factory** (interactive image/video/3D tools).
+
+---
+
+### 📊 Data & Knowledge Studio
+
+![Data & Knowledge Studio](screenshots/data_studio.png)
+
+Documents · PDF · RAG · Statistics · Analysis · Research — all in one workspace.
+
+---
+
+### ⚙️ Engineering Studio
+
+![Engineering Studio](screenshots/engineering_studio.png)
+
+PCB · CAD · Robotics · Code · Architecture · Datasheets analysis.
+
+---
+
+### 🤖 Hamda Agent
+
+![Hamda Agent](screenshots/agent.png)
+
+AI Development Engineer & Automation Agent —
+Plan · Code · Build · Test · Document · Deploy.
+
+---
+
+### 🧊 3D Tools
+
+![3D Tools](screenshots/3D_studio.png)
+
+Object, avatar, environment, and volumetric generation via
+Hunyuan3D · TRELLIS · InstantMesh.
+
+---
+
+## ⚙️ Settings
+
+### Settings Hub
+
+![Settings Hub](screenshots/settings.png)
+
+Central access to Models, Hybrid Routing, API Keys, Paths, Downloads, Theme, and About.
+
+---
+
+### 🧠 Models — Chat / Coding / Vision
+
+![Models — top sections](screenshots/models_1.png)
+
+![Models — generation and embedding sections](screenshots/models_2.png)
+
+Independent categories: **Chat**, **Coding**, **Vision**, **Image Generation**,
+**Video Generation**, and **Embedding** models.
+
+---
+
+### 🔀 Hybrid Routing
+
+![Hybrid Routing](screenshots/hybrid_routing.png)
+
+Choose between Local-only (Ollama), Cloud-only (Gemini), or Hybrid with automatic fallback.
+
+---
+
+### 🔑 API Keys
+
+![API Keys](screenshots/api_keys.png)
+
+Secure credential storage — separated from config files.
+
+---
+
+### 📁 Paths
+
+![Paths](screenshots/paths.png)
+
+Live view of the storage root and every data folder.
+
+---
+
+### 📥 Downloads
+
+![Downloads](screenshots/downloads.png)
+
+Monitor active downloads and cache status.
+
+---
+
+### 🎨 Theme — Dark & Light
+
+![Theme — Dark](screenshots/theme_dark.png)
+
+![Theme — Light](screenshots/theme_light.png)
+
+Full live theme switching. Preview cards always reflect their own theme
+regardless of the active mode.
+
+---
+
+### ℹ️ About
+
+![About](screenshots/about.png)
+
+Version, Qt stack, author, and license.
+
+---
+
+---
+
 ## 📚 Documentation
 
 - [Architecture](docs/ARCHITECTURE)
@@ -40,7 +170,6 @@ for AI-powered content creation, data analysis, engineering, and coding automati
 - [Features](docs/FEATURES)
 - [Contributors](contributors/CONTRIBUTORS.md)
 - [Contact](contact/)
-
 
 ---
 

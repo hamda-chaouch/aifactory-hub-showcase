@@ -4,12 +4,14 @@ AIFactory Hub operates under a **revenue-share contributor model**.
 
 ---
 
-## Core Principles
+## 💼 Core Principles
 
 1. **Ownership** — All code contributions become the exclusive property of the Author (Hamda).
 2. **Confidentiality** — Contributors agree to keep the source code and architecture confidential.
 3. **Attribution** — Contributors are credited here and in the Software's About page.
 4. **Revenue Share** — Net revenue is distributed per each contributor's individual agreement.
+                       Percentages are **negotiated individually** based on the scope, complexity, 
+					   and impact of the contribution.
 
 ---
 

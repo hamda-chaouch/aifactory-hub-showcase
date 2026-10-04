@@ -38,7 +38,7 @@ hybrid (local + cloud) desktop platform.
 
 ## 📸 Screenshots
 
-*Screenshots will be added here as the UI is built.*
+*Real UI Screenshots will be added here as the UI is built.*
 
 | Home | Settings |
 | :---: | :---: |
@@ -48,30 +48,32 @@ hybrid (local + cloud) desktop platform.
 
 ## 🏗️ Architecture
 
-![AIFactory Hub Architecture](docs/images/architecture_v1.png)
+![AIFactory Hub Architecture](docs/images/architecture_v1.jpeg)
 
 *(High-level overview. See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for details.)*
 
 ---
 ## 🏗️ High-Level Architecture
-QML FRONTEND
-│
-▼
-UI SHELL
-│
-▼
-MODULES
-/
-▼ ▼
-ENGINES AI CONTRACTS
-│ │
-▼ ▼
-Core PROVIDERS
-│
-▼
-Local + Cloud AI
-(Ollama · Gemini · ComfyUI)
 
+```mermaid
+flowchart TD
+    QML[QML Frontend]
+    UI[UI Shell]
+    MOD[Modules]
+    ENG[Engines]
+    AIC[AI Contracts]
+    CORE[Core]
+    PROV[Providers]
+    AI[Local + Cloud AI<br/>Ollama · Gemini · ComfyUI]
+
+    QML --> UI
+    UI --> MOD
+    MOD --> ENG
+    MOD --> AIC
+    ENG --> CORE
+    AIC --> PROV
+    PROV --> AI
+```
 
 **Key features:**
 - **Hybrid AI** — local models (Ollama) + cloud (Gemini) with automatic routing
