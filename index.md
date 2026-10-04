@@ -73,7 +73,7 @@ PCB · CAD · Robotics · Code · Architecture · Datasheets analysis.
 
 ### 🤖 Hamda Agent
 
-![Hamda Agent](screenshots/agent.png)
+![Hamda Agent](screenshots/agent_studio.png)
 
 AI Development Engineer & Automation Agent —
 Plan · Code · Build · Test · Document · Deploy.
